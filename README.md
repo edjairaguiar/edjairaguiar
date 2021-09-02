@@ -4,7 +4,7 @@
 - 🏡 Brazilian, based in Petrolina - PE;
 - 📕 I'm an undergraduate in Computer Engineering at the Federal University of Vale do São Francisco; 
 - ⚛️ I work as a Software Engineering Intern @ Descomplica;
-- 🤖 Also, I used to work as Technological Education Teacher for children. 
+- 🤖 I also used to work as a Technological Education Teacher. 
 <br>
 <div align="center">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edjairaguiar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
