@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px"> Welcome to my Github profile...</div>
+# <div align="center"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px"> Welcome to my Github profile.</div>
 #### <div align="center"> Nice to meet you! My name is Edjair. </div>
 ## 
 - 🏡 Brazilian, based in Petrolina - PE;
