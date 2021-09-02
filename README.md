@@ -15,7 +15,7 @@
 ##
 
 <div style="display: inline_block">
-   <a href="mailto:aguiaredjair@gmail.com" target="_blank"><img alight="left" height="40px" src = "https://www.apkmirror.com/wp-content/uploads/2020/10/Gmail_round-384x384.png" /></a>
+   <a href="mailto:aguiaredjair@gmail.com" target="_blank"><img alight="left" height="40px" src = "https://icon-library.com/images/gmail-circle-icon/gmail-circle-icon-5.jpg" /></a>
   <a href="https://linkedin.com/in/edjairaguiar/" target="_blank"><img alight="left" height="40px" src = "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" /></a>
    <a href="https://lattes.cnpq.br/2662537000756067/" target="_blank"><img alight="left" height="40px" src = "https://lh3.googleusercontent.com/proxy/CyAJWgsfr7vuAV_YwZFmvZ8z9Yn9fLhp5utKw0azA0HWie76F7WWAVlToPjbcvsLz47TzD390WTzsWcUwJUPWhJNyopmT-pJM95yK27ccLBF00ECq3pWzmN95WvMrmx4T0qbpvS-cjLa" />
   <img align="right" height="70px" src = "https://64.media.tumblr.com/1e3be401614270e4cbe7e4830c22aed9/482c5ff5dceffcb4-fd/s2048x3072/8c8bbafc284b24eabf2e95099a89898ca7ebdd66.gif" /> 
