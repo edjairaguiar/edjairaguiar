@@ -4,7 +4,7 @@
 ## 
 - 🏡 Brazilian, based in Petrolina - PE;
 - 📕 I'm an undergraduate in Computer Engineering at the Federal University of Vale do São Francisco; 
-- ⚛️ I work as a Software Engineering Intern @ Descomplica;
+- ⚛️ I currently work as SRE Developer @ Descomplica;
 - 🤖 I also used to work as a Technology Education Teacher. 
 <br>
 <div align="center">
