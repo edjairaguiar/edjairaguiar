@@ -2,10 +2,9 @@
 #### <div align="center"> Nice to meet you! My name is Edjair. </div>
 
 ## 
-- 🏡 Brazilian, based in Petrolina - PE;
+- 🏡 Brazilian based in Petrolina - PE;
 - 📕 I'm an undergraduate in Computer Engineering at the Federal University of Vale do São Francisco; 
 - ⚛️ I currently work as Jr. SRE Developer @ Descomplica;
-- 🤖 I also used to work as a Technology Education Teacher. 
 <br>
 <div align="center">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edjairaguiar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
