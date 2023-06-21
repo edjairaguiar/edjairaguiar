@@ -3,7 +3,6 @@
 
 ##
 
-##
 
 <div style="display: inline_block">
    <a href="mailto:aguiaredjair@gmail.com" target="_blank"><img alight="left" height="40px" src = "https://icon-library.com/images/gmail-circle-icon/gmail-circle-icon-5.jpg" /></a>
