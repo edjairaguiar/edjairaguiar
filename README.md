@@ -1,15 +1,7 @@
 # <div align="center"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px"> Welcome to my Github profile.</div>
 #### <div align="center"> Nice to meet you! My name is Edjair. </div>
 
-## 
-- 🏡 Brazilian based in Petrolina - PE;
-- 📕 I'm an undergraduate in Computer Engineering at the Federal University of Vale do São Francisco; 
-- ⚛️ I currently work as Jr. SRE Developer @ Descomplica;
-<br>
-<div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edjairaguiar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edjairaguiar&layout=compact&langs_count=6&theme=highcontrast" />
-</div>
+##
 
 ##
 
